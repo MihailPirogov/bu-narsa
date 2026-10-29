@@ -1,0 +1,12 @@
+-keep class org.tensorflow.** { *; }
+-dontwarn org.tensorflow.**
+-dontwarn com.google.auto.value.**
+-dontobfuscate
+-keep class ru.pirogovlab.tatarkamera.** { *; }
+-dontwarn com.yandex.**
+-dontwarn com.google.mlkit.**
+-keep class com.google.mlkit.** { *; }
+-keep class com.google.android.gms.internal.mlkit_** { *; }
+-keep class com.google.android.odml.** { *; }
+-keep class com.yandex.mobile.ads.** { *; }
+-keepclasseswithmembernames class * { native <methods>; }

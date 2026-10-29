@@ -1,0 +1,476 @@
+# ImageNet-класс|=ключ существующей метки ИЛИ русское слово с ударением (новая метка in:<класс>)
+# породы собак (151–268) → =dog, кошки (281–285) → =cat — добавляются скриптом
+goldfish|золота́я ры́бка
+tench|линь
+great white shark|аку́ла
+tiger shark|аку́ла
+hammerhead|аку́ла
+cock|пету́х
+hen|ку́рица
+ostrich|стра́ус
+goldfinch|щего́л
+house finch|=bird
+junco|=bird
+magpie|соро́ка
+chickadee|сини́ца
+jay|со́йка
+bald eagle|орёл
+vulture|гриф
+great grey owl|сова́
+frog|лягу́шка
+tree frog|лягу́шка
+bullfrog|лягу́шка
+tailed frog|лягу́шка
+loggerhead|=turtle
+leatherback turtle|=turtle
+mud turtle|=turtle
+box turtle|=turtle
+terrapin|=turtle
+common newt|трито́н
+green lizard|я́щерица
+alligator lizard|я́щерица
+African crocodile|=crocodile
+American alligator|=crocodile
+grass snake|уж
+water snake|змея́
+green snake|змея́
+king snake|змея́
+garter snake|змея́
+vine snake|змея́
+sea snake|змея́
+Indian cobra|змея́
+diamondback|змея́
+sidewinder|змея́
+black widow|пау́к
+garden spider|пау́к
+barn spider|пау́к
+wolf spider|пау́к
+tarantula|пау́к
+scorpion|скорпио́н
+peacock|павли́н
+drake|=duck
+goose|гусь
+black swan|ле́бедь
+hummingbird|коли́бри
+toucan|тука́н
+jellyfish|меду́за
+snail|ули́тка
+slug|слизня́к
+lobster|ома́р
+crayfish|рак
+hermit crab|краб
+Dungeness crab|краб
+rock crab|краб
+flamingo|флами́нго
+white stork|а́ист
+black stork|а́ист
+pelican|пелика́н
+king penguin|=penguin
+grey whale|кит
+killer whale|каса́тка
+sea lion|=seal
+timber wolf|волк
+white wolf|волк
+red wolf|волк
+coyote|волк
+red fox|лиса́
+kit fox|лиса́
+Arctic fox|лиса́
+grey fox|лиса́
+cougar|пу́ма
+lynx|рысь
+leopard|леопа́рд
+snow leopard|леопа́рд
+jaguar|ягуа́р
+lion|лев
+tiger|тигр
+cheetah|гепа́рд
+brown bear|=bear
+American black bear|=bear
+ice bear|=bear
+sloth bear|=bear
+ladybug|бо́жья коро́вка
+fly|му́ха
+bee|пчела́
+ant|мураве́й
+grasshopper|кузне́чик
+cricket|сверчо́к
+cockroach|тарака́н
+dragonfly|стрекоза́
+damselfly|стрекоза́
+admiral|=butterfly
+ringlet|=butterfly
+monarch|=butterfly
+cabbage butterfly|=butterfly
+sulphur butterfly|=butterfly
+lycaenid|=butterfly
+starfish|морска́я звезда́
+sea urchin|морско́й ёж
+wood rabbit|кро́лик
+hare|за́яц
+Angora|кро́лик
+hamster|хомя́к
+porcupine|дикобра́з
+fox squirrel|бе́лка
+beaver|бобр
+guinea pig|морска́я сви́нка
+hog|свинья́
+wild boar|каба́н
+hippopotamus|бегемо́т
+ox|=bull
+water buffalo|бу́йвол
+bison|зубр
+ram|бара́н
+Arabian camel|верблю́д
+llama|ла́ма
+otter|вы́дра
+hedgehog|ёж
+badger|барсу́к
+orangutan|обезья́на
+gorilla|гори́лла
+chimpanzee|обезья́на
+baboon|обезья́на
+macaque|обезья́на
+spider monkey|обезья́на
+squirrel monkey|обезья́на
+Indian elephant|=elephant
+African elephant|=elephant
+tusker|=elephant
+giant panda|па́нда
+lesser panda|па́нда
+sturgeon|осётр
+eel|у́горь
+accordion|гармо́нь
+acoustic guitar|гита́ра
+electric guitar|гита́ра
+airliner|=airliner
+airship|дирижа́бль
+ambulance|ско́рая по́мощь
+analog clock|=clock
+wall clock|=clock
+digital clock|=clock
+apron|фа́ртук
+ashcan|му́сорный бак
+backpack|=backpack
+bakery|пека́рня
+balloon|=balloon
+ballpoint|ру́чка
+banjo|ба́нджо
+barn|=barn
+barrel|бо́чка
+barrow|=wheelbarrow
+baseball|мяч
+basketball|мяч
+soccer ball|мяч
+volleyball|мяч
+tennis ball|мяч
+rugby ball|мяч
+golf ball|мяч
+bathtub|ва́нна
+tub|ва́нна
+bath towel|полоте́нце
+beer bottle|=bottle
+wine bottle|=bottle
+water bottle|=bottle
+pop bottle|=bottle
+beer glass|стака́н
+bicycle-built-for-two|=bicycle
+mountain bike|=bicycle
+binoculars|бино́кль
+birdhouse|скворе́чник
+bookcase|кни́жный шкаф
+bow tie|=tie
+Windsor tie|=tie
+broom|метла́
+bucket|ведро́
+bullet train|=train
+electric locomotive|=train
+steam locomotive|=train
+passenger car|ваго́н
+freight car|ваго́н
+cab|такси́
+candle|свеча́
+cannon|пу́шка
+canoe|=canoe
+cardigan|ко́фта
+sweatshirt|ко́фта
+carousel|карусе́ль
+car wheel|=wheel
+castle|=castle
+cello|виолонче́ль
+cellular telephone|=mobile phone
+chain|=chain
+chain saw|бензопила́
+chest|сунду́к
+church|=church
+cinema|кинотеа́тр
+cloak|плащ
+trench coat|плащ
+coffee mug|=cup
+cup|=cup
+coffeepot|кофе́йник
+teapot|ча́йник
+computer keyboard|=keyboard
+typewriter keyboard|=keyboard
+container ship|кора́бль
+liner|кора́бль
+convertible|=car
+sports car|=car
+racer|=car
+cab|такси́
+beach wagon|=car
+jeep|=car
+limousine|=car
+minivan|=van
+moving van|=van
+police van|=van
+pickup|=truck
+trailer truck|=truck
+tow truck|=truck
+garbage truck|=truck
+fire engine|пожа́рная маши́на
+school bus|=bus
+trolleybus|тролле́йбус
+minibus|=bus
+streetcar|трамва́й
+cowboy hat|=hat
+sombrero|=hat
+cradle|колыбе́ль
+crib|колыбе́ль
+crash helmet|=helmet
+football helmet|=helmet
+crutch|косты́ль
+dam|=dam
+desk|=desk
+desktop computer|=computer
+monitor|монито́р
+laptop|=computer
+notebook|=computer
+dial telephone|телефо́н
+pay-phone|телефо́н
+dining table|=dining table
+dishwasher|посудомо́ечная маши́на
+dome|ку́пол
+doormat|ко́врик
+drum|бараба́н
+dumbbell|ганте́ль
+electric fan|вентиля́тор
+envelope|конве́рт
+flagpole|=flag
+flute|фле́йта
+folding chair|=chair
+rocking chair|=chair
+barber chair|=chair
+fountain|фонта́н
+fountain pen|ру́чка
+frying pan|сковорода́
+wok|сковорода́
+fur coat|шу́ба
+gown|=gown
+grand piano|=piano
+upright|=piano
+greenhouse|тепли́ца
+grocery store|магази́н
+hammer|молото́к
+hatchet|топо́р
+harmonica|губна́я гармо́шка
+harp|а́рфа
+harvester|комба́йн
+honeycomb|со́ты
+hook|крючо́к
+hourglass|песо́чные часы́
+iron|утю́г
+jean|=jeans
+jersey|=jersey
+jigsaw puzzle|пазл
+kimono|кимоно́
+knot|у́зел
+ladle|поло́вник
+lampshade|=lampshade
+table lamp|=lamp
+lawn mower|газонокоси́лка
+library|библиоте́ка
+lifeboat|=boat
+lighter|зажига́лка
+lipstick|пома́да
+loudspeaker|=subwoofer
+magnetic compass|ко́мпас
+mailbox|почто́вый я́щик
+mask|ма́ска
+matchstick|спи́чка
+microphone|микрофо́н
+microwave|=microwave
+military uniform|фо́рма
+mitten|ва́режка
+mixing bowl|ми́ска
+soup bowl|ми́ска
+monastery|монасты́рь
+moped|=motorcycle
+motor scooter|=motorcycle
+mosque|=mosque
+mountain tent|пала́тка
+mouse|компью́терная мышь
+nail|=nail
+necklace|=necklace
+oxcart|теле́га
+horse cart|теле́га
+paddle|весло́
+padlock|замо́к
+paintbrush|кисть
+pajama|пижа́ма
+palace|=palace
+parachute|парашю́т
+park bench|=bench
+picket fence|=fence
+worm fence|=fence
+chainlink fence|=fence
+pier|=pier
+piggy bank|копи́лка
+pillow|=pillow
+pitcher|кувши́н
+water jug|кувши́н
+plate|таре́лка
+plow|плуг
+pot|кастрю́ля
+caldron|котёл
+printer|при́нтер
+projector|прое́ктор
+purse|кошелёк
+wallet|кошелёк
+quilt|одея́ло
+racket|раке́тка
+radiator|батаре́я
+radio|ра́дио
+refrigerator|=refrigerator
+remote control|=remote
+reflex camera|фотоаппара́т
+Polaroid camera|фотоаппара́т
+restaurant|рестора́н
+rifle|ружьё
+running shoe|=shoe
+Loafer|=shoe
+clog|=shoe
+cowboy boot|сапо́г
+sandal|санда́лия
+safety pin|була́вка
+saltshaker|соло́нка
+sax|саксофо́н
+scale|весы́
+schooner|=boat
+yawl|=boat
+catamaran|=boat
+trimaran|=boat
+fireboat|=boat
+speedboat|=speedboat
+gondola|=boat
+screwdriver|отвёртка
+sewing machine|шве́йная маши́на
+shield|щит
+shopping basket|корзи́на
+hamper|корзи́на
+shopping cart|теле́жка
+shovel|лопа́та
+ski|=skis
+sleeping bag|спа́льный мешо́к
+sliding door|=door
+snowmobile|снегохо́д
+sock|носо́к
+space shuttle|=rocket
+missile|=rocket
+spatula|лопа́тка
+spider web|паути́на
+stage|сце́на
+steel arch bridge|=bridge
+suspension bridge|=bridge
+viaduct|=bridge
+stone wall|=wall
+stopwatch|секундоме́р
+digital watch|часы́
+stove|печь
+strainer|си́то
+studio couch|=couch
+submarine|подво́дная ло́дка
+suit|костю́м
+sunglass|=glasses
+sunglasses|=glasses
+swing|=swing
+syringe|шприц
+tank|танк
+teddy|=toy
+television|=television
+throne|трон
+tile roof|=roof
+thatch|=roof
+toaster|=toaster
+toilet seat|унита́з
+torch|фа́кел
+tractor|=tractor
+tray|подно́с
+tricycle|=bicycle
+tripod|штати́в
+umbrella|=umbrella
+unicycle|=unicycle
+vacuum|пылесо́с
+vase|=vase
+violin|скри́пка
+wardrobe|шкаф
+warplane|=airplane
+washbasin|=sink
+washer|стира́льная маши́на
+water tower|водонапо́рная ба́шня
+whistle|свисто́к
+wig|пари́к
+window shade|=curtain
+window screen|=windowpane
+wooden spoon|=spoon
+wool|шерсть
+wreck|=shipwreck
+yurt|ю́рта
+comic book|=book
+book jacket|=book
+street sign|доро́жный знак
+traffic light|=traffic light
+menu|=menu
+ice cream|=gelato
+ice lolly|моро́женое
+French loaf|=bread
+bagel|бу́блик
+pretzel|кре́ндель
+cheeseburger|=sandwich
+hotdog|=sandwich
+mashed potato|пюре́
+head cabbage|капу́ста
+broccoli|бро́кколи
+cauliflower|капу́ста
+zucchini|кабачо́к
+cucumber|огуре́ц
+bell pepper|пе́рец
+mushroom|гриб
+agaric|гриб
+bolete|гриб
+Granny Smith|=apple
+strawberry|клубни́ка
+orange|=orange
+lemon|лимо́н
+pineapple|анана́с
+banana|=banana
+pomegranate|грана́т
+hay|се́но
+dough|те́сто
+pizza|=pizza
+potpie|=pie
+red wine|=wine
+espresso|=coffee
+alp|=mountain
+cliff|=cliff
+coral reef|кора́лловый риф
+lakeside|=lake
+seashore|=beach
+valley|доли́на
+volcano|=volcano
+groom|=groom
+daisy|рома́шка
+corn|кукуру́за
+acorn|жёлудь
+rapeseed|=flower
+ear|ко́лос

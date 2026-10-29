@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Политика конфиденциальности — Бу нәрсә? | Pirogov Lab</title>
+<meta name="description" content="Политика конфиденциальности приложения «Бу нәрсә?» (ru.pirogovlab.tatarkamera).">
+<meta name="robots" content="noindex, nofollow">
+<meta name="author" content="Михаил Пирогов">
+<meta name="color-scheme" content="light"><meta name="theme-color" content="#ffffff">
+<link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<style>
+  :root{--accent:#b01e34;--accent-d:#8c1528;--ink:#1d1d1f;--text:#3a3a3c;--muted:#6e6e73;--line:#ececef;--bg:#fff;--soft:#f6f6f7}
+  *,*::before,*::after{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;color:var(--text);line-height:1.65;background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:.18em}
+  a:hover{color:var(--accent-d)}
+  .wrap{max-width:60rem;margin:0 auto;padding:0 1.5rem}
+  .top{position:sticky;top:0;z-index:5;background:rgba(255,255,255,.82);backdrop-filter:saturate(180%) blur(14px);-webkit-backdrop-filter:saturate(180%) blur(14px);border-bottom:1px solid var(--line)}
+  nav{display:flex;align-items:center;gap:.6rem;height:3.6rem;font-size:.92rem;color:var(--muted)}
+  nav a{color:var(--ink);text-decoration:none;font-weight:600}
+  nav a:hover{color:var(--accent)}
+  .logo{display:block;width:1.55rem;height:1.55rem}
+  .logo img{width:100%;height:100%;display:block}
+  header{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:3.5rem;align-items:center;padding:4.5rem 0 4rem}
+  .eyebrow{display:flex;align-items:center;gap:.6rem;margin:0 0 1.3rem;font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+  .flag{width:1.9rem;height:auto;border-radius:.25rem;box-shadow:0 0 0 1px rgba(0,0,0,.06)}
+  h1{margin:0 0 1.2rem;font-size:clamp(2.1rem,5vw,3.2rem);line-height:1.08;font-weight:700;letter-spacing:-.028em;color:var(--ink)}
+  .lead{font-size:clamp(1.05rem,2.2vw,1.18rem);color:var(--muted);margin:0 0 2rem}
+  .lead b{color:var(--ink);font-weight:600}
+  .btn{display:inline-flex;align-items:center;gap:.6rem;padding:.9rem 1.5rem;border-radius:.85rem;font-weight:600;font-size:1rem;color:#fff!important;text-decoration:none;background:var(--accent);box-shadow:0 6px 20px rgba(176,30,52,.22);transition:background .15s,transform .15s,box-shadow .15s}
+  .btn:hover{background:var(--accent-d);transform:translateY(-1px);box-shadow:0 10px 26px rgba(176,30,52,.28)}
+  .meta{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1.4rem}
+  .pill{padding:.28rem .75rem;border-radius:999px;background:var(--soft);color:var(--muted);font-size:.84rem}
+  .viz{position:relative;aspect-ratio:1;width:100%;max-width:26rem;justify-self:end;border-radius:1.75rem;overflow:hidden;background:radial-gradient(120% 90% at 50% 35%,#2a0f16 0%,#12080b 60%,#0b0607 100%);box-shadow:0 1px 2px rgba(0,0,0,.08),0 24px 60px rgba(60,10,20,.22);touch-action:pan-y;user-select:none}
+  .viz-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:opacity .6s}
+  .viz canvas{position:absolute;inset:0;width:100%!important;height:100%!important;cursor:grab;opacity:0;transition:opacity .6s}
+  .viz canvas:active{cursor:grabbing}
+  .viz.live canvas{opacity:1}.viz.live .viz-img{opacity:0}
+  .viz-hint{position:absolute;left:0;right:0;bottom:.9rem;text-align:center;font-size:.75rem;letter-spacing:.02em;color:rgba(255,255,255,.55);opacity:0;transition:opacity .6s;pointer-events:none}
+  .viz.live .viz-hint{opacity:1}
+  .rule{height:1px;background:var(--line);margin:0;border:0;position:relative;overflow:visible}
+  .rule::after{content:"";position:absolute;left:50%;top:50%;width:.7rem;height:.7rem;margin:-.35rem 0 0 -.35rem;background:var(--accent);transform:rotate(45deg);box-shadow:0 0 0 .55rem #fff}
+  section{margin-top:5rem}
+  h2{font-size:clamp(1.4rem,3vw,1.75rem);margin:0 0 1.4rem;color:var(--ink);font-weight:700;letter-spacing:-.018em}
+  .card{background:#fff;border:1px solid var(--line);border-radius:1.15rem;padding:1.5rem 1.6rem;box-shadow:0 1px 2px rgba(0,0,0,.03),0 8px 30px rgba(0,0,0,.05)}
+  kbd{display:inline-block;padding:.05rem .45rem;border-radius:.4rem;background:var(--soft);border:1px solid #e2e2e6;font-family:inherit;font-size:.88em;color:var(--ink)}
+  ol li,ul li{margin:.5rem 0}
+  li::marker{color:var(--accent)}
+  details{border-bottom:1px solid var(--line);padding:1rem 0}
+  details:first-child{padding-top:0}
+  details:last-child{border-bottom:0;padding-bottom:0}
+  summary{cursor:pointer;font-weight:600;color:var(--ink)}
+  summary::marker{color:var(--accent)}
+  details p{margin:.6rem 0 0;color:var(--muted)}
+  .note{color:var(--muted);font-size:.9rem;margin-top:1.2rem}
+  code{font-size:.82em;word-break:break-all;color:var(--ink);background:var(--soft);padding:.1rem .35rem;border-radius:.3rem}
+  pre.instr{margin:0;white-space:pre-wrap;font-family:inherit;font-size:.95rem;color:var(--text);line-height:1.55}
+  footer{margin-top:6rem;padding:2.5rem 1.5rem 3rem;font-size:.88rem;color:var(--muted);text-align:center;border-top:1px solid var(--line)}
+  footer a{color:var(--ink);text-decoration:none}
+  @media (max-width:760px){header{grid-template-columns:1fr;gap:2.2rem;padding:2.5rem 0 3rem}.viz{justify-self:center;max-width:22rem}section{margin-top:3.5rem}.card{padding:1.2rem}}
+
+  .callout{display:flex;gap:1rem;align-items:flex-start;margin:1.25rem 0 0;padding:1.05rem 1.25rem;border-radius:1rem;background:linear-gradient(135deg,#fff8f8 0%,#fff 60%);border:1px solid #f0d4d8;box-shadow:0 1px 2px rgba(176,30,52,.04)}
+  .callout-ico{flex:0 0 auto;width:2.2rem;height:2.2rem;border-radius:.7rem;background:var(--accent);color:#fff;display:grid;place-items:center;font-size:1.05rem;font-weight:700}
+  .callout strong{color:var(--ink)}
+  .callout p{margin:0;color:var(--text);font-size:.98rem}
+  .shots{display:grid;grid-template-columns:1fr;gap:1rem;margin-top:1.2rem}
+  .shot{margin:0;border:1px solid var(--line);border-radius:1.15rem;overflow:hidden;background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.03),0 8px 30px rgba(0,0,0,.05)}
+  .shot img{display:block;width:100%;height:auto;vertical-align:middle}
+  .shot figcaption{padding:.75rem 1.1rem .95rem;font-size:.9rem;color:var(--muted);border-top:1px solid var(--line)}
+  @media (min-width:760px){.shots.two{grid-template-columns:1.15fr .85fr}}
+  @media (prefers-reduced-motion:reduce){.btn,.viz-img,.viz canvas{transition:none}}
+
+  .lang{margin-left:auto;flex:none;display:inline-flex;align-items:center;gap:.1rem;padding:.16rem;border-radius:999px;background:var(--soft);border:1px solid var(--line);font-size:.74rem;font-weight:600;letter-spacing:.06em;line-height:1}
+  .lang a,.lang .on{display:block;padding:.42rem .66rem;border-radius:999px;text-decoration:none}
+  nav .lang a{color:var(--muted);font-weight:600}
+  nav .lang a:hover{color:var(--accent)}
+  .lang .on{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08),0 0 0 1px rgba(0,0,0,.03)}
+  nav>a{flex:none;white-space:nowrap}
+  .crumb{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+</style>
+<style>main>header h1{font-size:clamp(1.65rem,7.2vw,3.2rem);hyphens:auto;overflow-wrap:break-word}.pp h2{margin-top:2rem}.pp h2:first-child{margin-top:0}.pp ul{padding-left:1.2rem}.pp .upd{color:var(--muted);font-size:.92rem}</style>
+</head>
+<body>
+<div class="top"><div class="wrap">
+  <nav aria-label="Навигация"><a href="/" class="logo" aria-label="Pirogov Lab"><img src="/mariyskaya-raskladka-klaviatury/img/logo-mark-128.webp" width="128" height="128" alt="Pirogov Lab"></a><a href="/">Pirogov Lab</a><span aria-hidden="true">/</span><span class="crumb"><a href="/bu-narsa/">Бу нәрсә?</a></span></nav>
+</div></div>
+<main class="wrap">
+<h1>Политика конфиденциальности</h1>
+<p>Приложение «Бу нәрсә?» — камера-словарь татарского языка (Android, <code>ru.pirogovlab.tatarkamera</code>, установка APK с pirogovlab.ru), проект лаборатории PirogovLab, разработчик — Михаил Пирогов. Редакция от 29.10.2026.</p>
+<h2>Кратко</h2>
+<ul>
+<li>Регистрации и аккаунта нет. Разработчик не собирает, не получает и не хранит ваши персональные данные.</li>
+<li><b>Камера и фотографии обрабатываются только на вашем устройстве</b>: распознавание выполняют встроенные модели (Google ML Kit с моделями внутри приложения, TensorFlow Lite). Снимки никуда не отправляются — ни разработчику, ни третьим лицам.</li>
+<li>Реклама показывается Рекламной сетью Яндекса (Yandex Mobile Ads SDK); Яндекс обрабатывает технические данные по своим правилам.</li>
+</ul>
+<h2>Разрешения</h2>
+<ul>
+<li><b>Камера</b> — чтобы сфотографировать предмет или показать подписи в живом режиме. Кадры обрабатываются в памяти телефона и не сохраняются, пока вы сами не нажмёте «Сохранить».</li>
+<li><b>Фото из галереи</b> — вы сами выбираете снимок в системном окне выбора; приложение получает доступ только к выбранному файлу.</li>
+<li><b>Сохранение</b> — картинка с подписями сохраняется в галерею, в папку «Pictures/Бу нәрсә» (на Android 9 и ниже — с разрешением на запись в хранилище). «Поделиться» передаёт картинку выбранному вами приложению.</li>
+<li><b>Интернет и состояние сети</b> — только для загрузки рекламы. Распознавание и словарь работают без интернета.</li>
+</ul>
+<h2>Какие данные хранит приложение</h2>
+<p>Временные снимки (для показа результата и отправки) лежат в кеше приложения на устройстве; их можно удалить в «Настройках» кнопкой «Очистить кеш» или вместе с приложением. Модели распознавания и словарь встроены в приложение. Отчёт о сбое (если он случился) хранится только на устройстве.</p>
+<h2>Реклама</h2>
+<p>Приложение показывает баннер и межстраничную рекламу <a href="https://yandex.ru/legal/mobileads_sdk_agreement/" target="_blank" rel="noopener">Yandex Mobile Ads SDK</a> (ООО «Яндекс»). Для показа рекламы SDK может получать рекламный идентификатор устройства, сведения об устройстве, операционной системе, приложении и сети, IP-адрес, а также сведения о показах и нажатиях. Эти данные обрабатывает Яндекс в соответствии с <a href="https://yandex.ru/legal/confidential/" target="_blank" rel="noopener">Политикой конфиденциальности Яндекса</a>. Доступа к геолокации у приложения нет. Рекламный идентификатор можно сбросить или удалить, а персонализацию — отключить в настройках Android (Google → Реклама). Без интернета реклама не показывается, а приложение работает как обычно.</p>
+<h2>Дети</h2>
+<p>Приложение предназначено для общей аудитории и не ориентировано специально на детей младше 13 лет; разработчик сознательно не собирает данные детей.</p>
+<h2>Изменения и контакты</h2>
+<p>При изменении политики новая редакция публикуется на этой странице. Вопросы — <a href="mailto:mihail.pirogov@gmail.com">mihail.pirogov@gmail.com</a> или <a href="/contacts/">Telegram</a>.</p>
+<p><a href="/bu-narsa/">← Бу нәрсә?</a></p>
+</main>
+<footer>&copy; 2026 Pirogov Lab · <a href="/blog/">Блог</a> · <a href="/contacts/">Контакты</a></footer>
+</body>
+</html>

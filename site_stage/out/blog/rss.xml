@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Микроблог — Pirogov Lab</title>
+    <link>https://pirogovlab.ru/blog/</link>
+    <atom:link href="https://pirogovlab.ru/blog/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Новости проектов Михаила Пирогова: приложения «Марий Эл Радио» и «Мэтр ФМ», марийская раскладка клавиатуры, MariSpell.</description>
+    <language>ru</language>
+    <lastBuildDate>Thu, 29 Oct 2026 15:30:00 +0300</lastBuildDate>
+    <image><url>https://pirogovlab.ru/icon-192.png</url><title>Микроблог — Pirogov Lab</title><link>https://pirogovlab.ru/blog/</link></image>
+    <item>
+      <title>«Бу нәрсә?»: камера, которая говорит по-татарски</title>
+      <link>https://pirogovlab.ru/blog/2026-10-29-bu-narsa/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-29-bu-narsa/</guid>
+      <pubDate>Thu, 29 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Наведите камеру на предмет — и узнайте, как он называется по-татарски: слово, перевод и толкование. Татарский словарь по фото, работает без интернета.</description>
+    </item>
+    <item>
+      <title>MetrAutoFrame: автокадрирование гостей в vMix одной кнопкой</title>
+      <link>https://pirogovlab.ru/blog/2026-10-28-metr-autoframe/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-28-metr-autoframe/</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0300</pubDate>
+      <description>Бесплатная программа для vMix: находит лица гостей и выравнивает кадры в шаблонах без PTZ-камер. 1–4 гостя, YuNet, открытый код на GitHub.</description>
+    </item>
+<item>
+      <title>«Эфиры Телерадиокомпании МЭТР» вышли в Google Play</title>
+      <link>https://pirogovlab.ru/blog/2026-10-26-metr-tv-google-play/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-26-metr-tv-google-play/</guid>
+      <pubDate>Mon, 26 Oct 2026 14:30:00 +0300</pubDate>
+      <description>Приложение МЭТР для Android вышло в Google Play: прямой эфир телеканала МЭТР, новости, программа передач, Марий Эл Радио и МЭТР ФМ.</description>
+    </item>
+    <item>
+      <title>Марий клавиатур 5.9.2 отправлена на модерацию в Google Play</title>
+      <link>https://pirogovlab.ru/blog/2026-10-25-mariy-klaviatura-google-play/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-25-mariy-klaviatura-google-play/</guid>
+      <pubDate>Sun, 25 Oct 2026 08:45:00 +0300</pubDate>
+      <description>Марийская клавиатура 5.9.2 отправлена на проверку в Google Play. Пока идёт модерация, APK можно скачать на сайте, дальше — RuStore.</description>
+    </item>
+    <item>
+      <title>«Мо тиде?»: камера, которая говорит по-марийски</title>
+      <link>https://pirogovlab.ru/blog/2026-10-24-mo-tide/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-24-mo-tide/</guid>
+      <pubDate>Sat, 24 Oct 2026 18:00:00 +0300</pubDate>
+      <description>Наведите камеру на предмет — и узнайте, как он называется на луговомарийском: слово, ударение, перевод и толкование из словаря. Работает без интернета.</description>
+    </item>
+    <item>
+      <title>Марийская раскладка теперь и для Mac</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariyskaya-raskladka-macos/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariyskaya-raskladka-macos/</guid>
+      <pubDate>Fri, 23 Oct 2026 17:30:00 +0300</pubDate>
+      <description>Марийская раскладка клавиатуры 3.1 вышла для macOS: буквы ӱ ӧ ӓ ӹ ҥ через Option, установка одним скриптом.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>Начал разработку МЭТР ТВ — бета для Android и Android TV</title>
+      <link>https://pirogovlab.ru/blog/2026-10-22-metr-tv/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-22-metr-tv/</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0300</pubDate>
+      <description>Начал разработку приложения МЭТР ТВ для ГАУК «Марий Эл Телерадио»: прямой эфир, программа, видео и архив передач, радио и новости — на телефонах и Android TV. Бета-версия APK для проверки.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>«Кыв кытш»: словесная игра на коми языке</title>
+      <link>https://pirogovlab.ru/blog/2026-10-21-kyv-kytsh/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-21-kyv-kytsh/</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 +0300</pubDate>
+      <description>Словесная головоломка на коми языке: 500 уровней, перевод каждого слова, задача дня и колесо удачи.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>«Һүҙ донъяһы»: словесная игра на башкирском языке</title>
+      <link>https://pirogovlab.ru/blog/2026-10-21-huz-donyahy/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-21-huz-donyahy/</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 +0300</pubDate>
+      <description>Словесная головоломка на башкирском: 1000 уровней, перевод каждого слова, задача дня и колесо удачи. Google Play, браузер и APK.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>«Мари филворд»: марийские слова змейкой</title>
+      <link>https://pirogovlab.ru/blog/2026-10-20-mari-filword/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-20-mari-filword/</guid>
+      <pubDate>Tue, 20 Oct 2026 15:00:00 +0300</pubDate>
+      <description>Филворд на марийском: 1300+ уровней, 14 тем, три сложности и перевод каждого слова. Игра в браузере и на Android.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>FM RDS монитор для «Марий Эл Радио» на ESP32</title>
+      <link>https://pirogovlab.ru/blog/2026-10-20-fm-rds-monitor/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-20-fm-rds-monitor/</guid>
+      <pubDate>Tue, 20 Oct 2026 10:05:00 +0300</pubDate>
+      <description>Настольный монитор эфира на ESP32 CYD и RDA5807M: RDS, «сейчас в эфире» с фото, слушатели онлайн. Код на GitHub.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>«Чӑваш сӑмахӗ»: словесная игра на чувашском языке</title>
+      <link>https://pirogovlab.ru/blog/2026-10-20-chavash-samakhe/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-20-chavash-samakhe/</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 +0300</pubDate>
+      <description>Словесная головоломка на чувашском: 700 уровней, перевод каждого слова, задача дня и колесо удачи. Google Play, RuStore, браузер и APK.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>«Sanamaailma»: словесная игра на финском языке</title>
+      <link>https://pirogovlab.ru/blog/2026-10-19-sanamaailma/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-19-sanamaailma/</guid>
+      <pubDate>Mon, 19 Oct 2026 15:00:00 +0300</pubDate>
+      <description>Словесная головоломка на финском: 1000 уровней, перевод каждого слова, задача дня и колесо удачи. Игра в браузере и на Android.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>Новый сайт Марий Эл Радио</title>
+      <link>https://pirogovlab.ru/blog/2026-10-19-mari-el-radio-sayt/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-19-mari-el-radio-sayt/</guid>
+      <pubDate>Mon, 19 Oct 2026 14:38:00 +0300</pubDate>
+      <description>Сделал новую версию сайта mari-el-radio.ru: светлый дизайн, плеер без пауз при переходах, «сейчас в эфире» с фото, архив эфира, сетка вещания, ведущие, программы, новости и карта покрытия FM.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>«Марий мут»: угадай марийское слово</title>
+      <link>https://pirogovlab.ru/blog/2026-10-19-mari-mut/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-19-mari-mut/</guid>
+      <pubDate>Mon, 19 Oct 2026 16:00:00 +0300</pubDate>
+      <description>Сделал «Марий мут» — игру в слова на марийском: угадайте слово за 6 попыток. Задача дня, практика, слова от 3 до 8 букв, обучение и общая таблица лидеров. Играть в браузере и на Android.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>«Сүз дөньясы»: словесная игра на татарском языке</title>
+      <link>https://pirogovlab.ru/blog/2026-10-19-suz-donyasy/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-19-suz-donyasy/</guid>
+      <pubDate>Mon, 19 Oct 2026 14:00:00 +0300</pubDate>
+      <description>Словесная головоломка на татарском: 1000 уровней, перевод каждого слова, задача дня и колесо удачи. Игра в браузере.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>«Мут тӱня»: словесная игра на марийском языке</title>
+      <link>https://pirogovlab.ru/blog/2026-10-18-mut-tunya/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-18-mut-tunya/</guid>
+      <pubDate>Sun, 18 Oct 2026 14:00:00 +0300</pubDate>
+      <description>Словесная головоломка на марийском: 1000 уровней, карточки слов из «Словаря марийского языка», задача дня и колесо удачи. APK для Android и игра в браузере.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>«Марий кечышот»: марийский календарь для Android</title>
+      <link>https://pirogovlab.ru/blog/2026-10-15-mariy-kechyshot/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-15-mariy-kechyshot/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 +0300</pubDate>
+      <description>Календарь марийских праздников, молений, примет и обрядов на марийском и русском. Работает без интернета, утром напоминает, что сегодня за день.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>Stream MONITOR: настольный светофор для эфиров</title>
+      <link>https://pirogovlab.ru/blog/2026-10-12-stream-monitor/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-12-stream-monitor/</guid>
+      <pubDate>Mon, 12 Oct 2026 13:45:00 +0300</pubDate>
+      <description>Маленький экран на ESP32 за пару сотен рублей стоит на столе в студии и показывает, живы ли HLS/RTMP-потоки. Зелёный — в эфире, красный — упал. Код открыт на GitHub.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>Карта покрытия «Марий Эл Радио»</title>
+      <link>https://pirogovlab.ru/blog/2026-10-08-karta-pokrytiya-fm/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-08-karta-pokrytiya-fm/</guid>
+      <pubDate>Thu, 08 Oct 2026 06:40:00 +0000</pubDate>
+      <description>Интерактивная карта покрытия «Марий Эл Радио»: зоны уверенного приёма 15 ФМ-передатчиков в Республике Марий Эл, включая Йошкар-Олу на 105,5 МГц. Найдите свой населённый пункт или щёлкните по карте — и сразу видно, есть ли там уверенный приём.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>Марий клавиатура для Android: тестовая версия</title>
+      <link>https://pirogovlab.ru/blog/2026-10-07-mariy-klaviatura-beta/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-07-mariy-klaviatura-beta/</guid>
+      <pubDate>Wed, 07 Oct 2026 14:30:00 +0000</pubDate>
+      <description>Приложение в процессе разработки: бета-версия марийской клавиатуры для Android с проверкой орфографии и подсказками.</description>
+    </item>
+    <item>
+      <title>Начал разрабатывать плеер Марий Эл Радио для iPhone</title>
+      <link>https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-23-mariy-el-radio-ios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 +0300</pubDate>
+      <description>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</description>
+    </item>
+    <item>
+      <title>«Марий Эл Радио» 2.6: большое обновление приложения для Android</title>
+      <link>https://pirogovlab.ru/blog/2026-10-06-mariy-el-radio-update/</link>
+      <guid isPermaLink="true">https://pirogovlab.ru/blog/2026-10-06-mariy-el-radio-update/</guid>
+      <pubDate>Tue, 06 Oct 2026 10:40:00 +0300</pubDate>
+      <description>Радио играет, даже когда мобильный интернет работает только по «белым спискам»: приложение само переходит на резервный поток через Яндекс Радио. А ещё новый главный экран, автопереподключение, таймер сна в свёрнутом режиме и удобный Android Auto.</description>
+      <content:encoded><![CDATA[<p><a href="https://pirogovlab.ru/blog/2026-10-06-mariy-el-radio-update/"><img src="https://pirogovlab.ru/blog/media/mariy-el-radio-update.jpg" width="1920" height="1080" alt="Промо-ролик обновления «Марий Эл Радио» 2.6 для Android"></a></p>
+<p>Выпустил большое обновление приложения <b>«Марий Эл Радио»</b> для Android — версию 2.6. Главное: <b>радио играет, даже когда мобильный интернет работает только по «белым спискам»</b> — приложение само переключится на резервный поток через Яндекс Радио. Коротко обо всём — в ролике выше, подробнее — ниже.</p>
+<h2>Что нового</h2>
+<ul>
+  <li><b>Эфир при «белых списках».</b> Если собственный поток станции недоступен, эфир продолжится через Яндекс Радио — без лишних действий с вашей стороны.</li>
+  <li><b>Автопереподключение.</b> Пропала связь — приложение само восстановит эфир, а статус соединения всегда на виду.</li>
+  <li><b>Новый главный экран.</b> Большая кнопка эфира и крупные фото исполнителей — сразу видно, кто сейчас поёт.</li>
+  <li><b>Таймер сна в свёрнутом режиме.</b> Можно спокойно засыпать под радио: эфир остановится точно в срок, даже если приложение свёрнуто.</li>
+  <li><b>Android Auto стал удобнее.</b> Исправления и прогресс песни при прослушивании архива в машине.</li>
+</ul>
+<h2>Поздравьте близких в эфире</h2>
+<blockquote><p><b>Ваш голос и ваше поздравление прозвучат на весь марийский мир.</b> Запишите аудиопоздравление прямо в приложении — до 60 секунд — и отправьте его в студию. Лучшие поздравления звучат в эфире.</p></blockquote>
+<h2>И всё, что уже есть</h2>
+<ul>
+  <li>архив передач за 15 дней с поиском — слушайте с любой песни;</li>
+  <li>запись эфира в MP3, которой можно поделиться с близкими;</li>
+  <li>управление из шторки уведомлений и с экрана блокировки;</li>
+  <li>версия для Android TV и свой цвет темы;</li>
+  <li>связь со студией в одно касание: MAX, Telegram или звонок.</li>
+</ul>
+<p>Приложение бесплатное и работает на Android 7.0 и новее. Обновите его или скачайте — в Google Play, RuStore или напрямую APK-файлом с сайта радиостанции. Пӱтынь марий тӱня колыштеш — весь марийский мир слушает!</p>]]></content:encoded>
+      <enclosure url="https://pirogovlab.ru/blog/media/mariy-el-radio-update.mp4" length="10069208" type="video/mp4"/>
+    </item>
+  </channel>
+</rss>

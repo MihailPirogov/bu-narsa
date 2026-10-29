@@ -1,0 +1,465 @@
+Accordion|аккордео́н
+Adhesive tape|скотч
+Alarm clock|буди́льник
+Alpaca|альпа́ка
+Ambulance|ско́рая по́мощь
+Animal|живо́тное
+Ant|мураве́й
+Antelope|антило́па
+Armadillo|броненосец
+Artichoke|артишо́к
+Auto part|автозапча́сть
+Axe|топо́р
+Bagel|бу́блик
+Baked goods|вы́печка
+Balance beam|бревно́
+Ball|мяч
+Band-aid|пла́стырь
+Banjo|ба́нджо
+Barge|ба́ржа
+Barrel|бо́чка
+Baseball bat|би́та
+Baseball glove|бейсбо́льная перча́тка
+Bat (Animal)|лету́чая мышь
+Bathroom accessory|принадле́жности для ва́нной
+Bathroom cabinet|шка́фчик
+Bathtub|ва́нна
+Beaker|мензу́рка
+Bee|пчела́
+Beehive|у́лей
+Beer|пи́во
+Beetle|жук
+Bell pepper|пе́рец
+Belt|по́яс
+Bicycle helmet|шлем
+Bicycle wheel|колесо́
+Bidet|биде́
+Billboard|рекла́мный щит
+Billiard table|билья́рд
+Binoculars|бино́кль
+Blender|бле́ндер
+Blue jay|со́йка
+Bomb|бо́мба
+Bookcase|кни́жный шкаф
+Boot|сапо́г
+Bottle opener|открыва́лка
+Bow and arrow|лук
+Bowling equipment|бо́улинг
+Box|я́щик
+Boy|ма́льчик
+Brassiere|бюстга́льтер
+Briefcase|портфе́ль
+Bronze sculpture|скульпту́ра
+Brown bear|медве́дь
+Burrito|буррито
+Bust|бюст
+Cabbage|капу́ста
+Cake stand|подно́с
+Calculator|калькуля́тор
+Camel|верблю́д
+Camera|фотоаппара́т
+Can opener|открыва́лка
+Canary|канаре́йка
+Candle|свеча́
+Candy|конфе́та
+Cannon|пу́шка
+Cantaloupe|ды́ня
+Carnivore|хи́щник
+Cart|теле́жка
+Cassette deck|магнитофо́н
+Cat furniture|когтето́чка
+Caterpillar|гу́сеница
+Ceiling fan|вентиля́тор
+Cello|виолонче́ль
+Centipede|многоно́жка
+Chainsaw|бензопила́
+Cheese|сыр
+Cheetah|гепа́рд
+Chest of drawers|комо́д
+Chicken|ку́рица
+Chime|колоко́льчик
+Chisel|долото́
+Chopsticks|па́лочки
+Christmas tree|ёлка
+Closet|шкаф
+Clothing|оде́жда
+Coat|пальто́
+Cocktail|кокте́йль
+Cocktail shaker|ше́йкер
+Coconut|коко́с
+Coffee cup|ча́шка
+Coffee table|сто́лик
+Coffeemaker|кофева́рка
+Coin|моне́та
+Common fig|инжи́р
+Common sunflower|подсо́лнух
+Computer keyboard|клавиату́ра
+Computer monitor|мони́тор
+Computer mouse|мышь
+Container|конте́йнер
+Convenience store|магази́н
+Cooking spray|балло́нчик
+Corded phone|телефо́н
+Cosmetics|косме́тика
+Cowboy hat|шля́па
+Crab|краб
+Cream|сли́вки
+Cricket ball|мяч
+Croissant|круасса́н
+Crown|коро́на
+Crutch|косты́ль
+Cucumber|огуре́ц
+Cupboard|шкаф
+Cutting board|разделочная доска
+Dagger|кинжа́л
+Dairy Product|моло́чные проду́кты
+Deer|оле́нь
+Dessert|десе́рт
+Diaper|подгу́зник
+Dice|игра́льный ку́бик
+Digital clock|часы́
+Dishwasher|посудомо́ечная маши́на
+Dog bed|лежа́нка
+Doll|ку́кла
+Dolphin|дельфи́н
+Door handle|ру́чка
+Doughnut|по́нчик
+Dragonfly|стрекоза́
+Drill (Tool)|дрель
+Drink|напи́ток
+Drinking straw|соло́минка
+Drum|бараба́н
+Dumbbell|ганте́ль
+Eagle|орёл
+Earrings|се́рьги
+Egg (Food)|яйцо́
+Envelope|конве́рт
+Eraser|ла́стик
+Face powder|пу́дра
+Facial tissue holder|салфе́тки
+Falcon|со́кол
+Fashion accessory|аксессуа́р
+Fast food|фастфу́д
+Fax|факс
+Fedora|шля́па
+Filing cabinet|шкаф
+Fireplace|ками́н
+Fish|ры́ба
+Flashlight|фона́рик
+Flute|фле́йта
+Flying disc|фри́сби
+Food processor|комба́йн
+Football|мяч
+Football helmet|шлем
+Footwear|о́бувь
+Fountain|фонта́н
+Fox|лиса́
+French fries|картофель фри
+French horn|валто́рна
+Frog|лягу́шка
+Frying pan|сковорода́
+Furniture|ме́бель
+Garden Asparagus|спа́ржа
+Gas stove|плита́
+Girl|де́вочка
+Glove|перча́тка
+Goat|коза́
+Goldfish|золота́я ры́бка
+Golf ball|мяч
+Golf cart|гольф-ка́р
+Gondola|гондо́ла
+Goose|гусь
+Grape|виногра́д
+Grapefruit|грейпфру́т
+Grinder|мельни́ца
+Guacamole|гуакамоле
+Guitar|гита́ра
+Hair dryer|фен
+Hair spray|лак для воло́с
+Hamburger|гамбу́ргер
+Hammer|молото́к
+Hamster|хомя́к
+Hand dryer|суши́лка
+Handgun|пистоле́т
+Harbor seal|тюле́нь
+Harmonica|губна́я гармо́шка
+Harp|а́рфа
+Harpsichord|клавеси́н
+Headphones|нау́шники
+Heater|обогрева́тель
+Hedgehog|ёж
+High heels|ту́фли
+Hiking equipment|снаряже́ние
+Hippopotamus|бегемо́т
+Home appliance|те́хника
+Honeycomb|со́ты
+Horizontal bar|турни́к
+Houseplant|комнатное растение
+Human arm|рука́
+Human beard|борода́
+Human body|те́ло
+Human ear|у́хо
+Human eye|глаз
+Human face|лицо́
+Human foot|ступня́
+Human hair|во́лосы
+Human hand|рука́
+Human head|голова́
+Human leg|нога́
+Human mouth|рот
+Human nose|нос
+Humidifier|увлажни́тель
+Ice cream|моро́женое
+Indoor rower|тренажёр
+Infant bed|колыбе́ль
+Invertebrate|беспозвоно́чное
+Ipod|пле́ер
+Isopod|мокри́ца
+Jacuzzi|джаку́зи
+Jaguar (Animal)|ягуа́р
+Jellyfish|меду́за
+Jet ski|гидроци́кл
+Jug|кувши́н
+Kangaroo|кенгуру́
+Kettle|ча́йник
+Kitchen & dining room table|стол
+Kitchen appliance|ку́хонная те́хника
+Kitchen knife|нож
+Kitchen utensil|посу́да
+Kitchenware|посу́да
+Koala|коа́ла
+Ladder|ле́стница
+Ladle|поло́вник
+Ladybug|бо́жья коро́вка
+Land vehicle|тра́нспорт
+Lantern|фона́рь
+Lavender (Plant)|лава́нда
+Lemon|лимо́н
+Leopard|леопа́рд
+Light bulb|ла́мпочка
+Light switch|выключа́тель
+Lily|ли́лия
+Limousine|лимузи́н
+Lion|лев
+Lizard|я́щерица
+Lobster|ома́р
+Luggage and bags|бага́ж
+Lynx|рысь
+Magpie|соро́ка
+Mammal|млекопита́ющее
+Man|мужчи́на
+Mango|ма́нго
+Maple|клён
+Maracas|мара́касы
+Marine invertebrates|морски́е беспозвоно́чные
+Marine mammal|морско́е млекопита́ющее
+Measuring cup|мерный стакан
+Mechanical fan|вентиля́тор
+Medical equipment|медтехника
+Microphone|микрофо́н
+Microwave oven|микроволно́вка
+Milk|молоко́
+Miniskirt|ю́бка
+Missile|раке́та
+Mixer|ми́ксер
+Mixing bowl|ми́ска
+Monkey|обезья́на
+Moths and butterflies|ба́бочка
+Muffin|кекс
+Mug|кру́жка
+Mule|мул
+Mushroom|гриб
+Musical keyboard|синтеза́тор
+Nail (Construction)|гвоздь
+Nightstand|ту́мбочка
+Oboe|гобо́й
+Office building|зда́ние
+Office supplies|канцтова́ры
+Organ (Musical Instrument)|орга́н
+Ostrich|стра́ус
+Otter|вы́дра
+Owl|сова́
+Oyster|у́стрица
+Paddle|весло́
+Palm tree|па́льма
+Pancake|блин
+Panda|па́нда
+Paper cutter|резак
+Paper towel|бума́жное полоте́нце
+Parachute|парашю́т
+Parking meter|паркомат
+Parrot|попуга́й
+Pasta|макаро́ны
+Pastry|пиро́жное
+Peach|пе́рсик
+Pear|гру́ша
+Pen|ру́чка
+Pencil case|пена́л
+Pencil sharpener|точи́лка
+Perfume|духи́
+Personal care|гигие́на
+Personal flotation device|спаса́тельный жиле́т
+Picnic basket|корзи́на
+Picture frame|ра́мка
+Pig|свинья́
+Pineapple|анана́с
+Pitcher (Container)|кувши́н
+Pizza cutter|нож для пиццы
+Plastic bag|паке́т
+Plate|таре́лка
+Platter|блю́до
+Plumbing fixture|сантехника
+Polar bear|бе́лый медве́дь
+Pomegranate|грана́т
+Popcorn|попко́рн
+Porch|крыльцо́
+Porcupine|дикобра́з
+Potato|карто́фель
+Power plugs and sockets|розе́тка
+Pressure cooker|скорова́рка
+Pretzel|кре́ндель
+Printer|при́нтер
+Pumpkin|ты́ква
+Punching bag|гру́ша
+Rabbit|кро́лик
+Raccoon|ено́т
+Racket|раке́тка
+Radish|реди́ска
+Ratchet (Device)|трещо́тка
+Raven|во́рон
+Rays and skates|скат
+Red panda|ма́лая па́нда
+Remote control|пульт
+Reptile|пресмыка́ющееся
+Rhinoceros|носоро́г
+Rifle|ружьё
+Ring binder|па́пка
+Roller skates|ро́лики
+Rose|ро́за
+Rugby ball|мяч
+Ruler|лине́йка
+Salad|сала́т
+Salt and pepper shakers|соло́нка
+Sandal|санда́лия
+Saxophone|саксофо́н
+Scale|весы́
+Scoreboard|табло́
+Scorpion|скорпио́н
+Screwdriver|отвёртка
+Sculpture|скульпту́ра
+Sea lion|морско́й лев
+Sea turtle|черепа́ха
+Seafood|морепроду́кты
+Seahorse|морско́й конёк
+Seat belt|ремень безопасности
+Segway|сегвей
+Serving tray|подно́с
+Sewing machine|шве́йная маши́на
+Shark|аку́ла
+Shellfish|моллю́ск
+Shirt|руба́шка
+Shotgun|ружьё
+Shower|душ
+Shrimp|креве́тка
+Ski|лы́жи
+Skirt|ю́бка
+Skull|че́реп
+Skunk|скунс
+Slow cooker|мультиварка
+Snack|заку́ска
+Snail|ули́тка
+Snake|змея́
+Snowboard|сноубо́рд
+Snowman|снегови́к
+Snowmobile|снегохо́д
+Snowplow|снегоочисти́тель
+Soap dispenser|мы́льница
+Sock|носо́к
+Sofa bed|дива́н
+Sombrero|сомбре́ро
+Sparrow|воробе́й
+Spatula|лопа́тка
+Spice rack|по́лка
+Spider|пау́к
+Sports equipment|спортинвента́рь
+Sports uniform|фо́рма
+Squash (Plant)|кабачо́к
+Squid|кальма́р
+Squirrel|бе́лка
+Stapler|степлер
+Starfish|морска́я звезда́
+Stationary bicycle|велотренажёр
+Stethoscope|стетоско́п
+Stool|табуре́тка
+Strawberry|клубни́ка
+Street light|фона́рь
+Stretcher|носи́лки
+Studio couch|дива́н
+Submarine sandwich|бутербро́д
+Suit|костю́м
+Sun hat|шля́па
+Swan|ле́бедь
+Swim cap|ша́почка
+Swimming pool|бассе́йн
+Sword|меч
+Syringe|шприц
+Table|стол
+Table tennis racket|раке́тка
+Tablet computer|планше́т
+Taco|тако
+Tank|танк
+Tap|кран
+Tart|пиро́г
+Taxi|такси́
+Tea|чай
+Teapot|ча́йник
+Telephone|телефо́н
+Tennis ball|мяч
+Tent|пала́тка
+Tiara|диаде́ма
+Tick|клещ
+Tiger|тигр
+Tin can|ба́нка
+Toilet paper|туале́тная бума́га
+Tomato|помидо́р
+Tool|инструме́нт
+Torch|фа́кел
+Tortoise|черепа́ха
+Towel|полоте́нце
+Traffic sign|доро́жный знак
+Training bench|скамья́
+Treadmill|бегова́я доро́жка
+Tree house|до́мик на де́реве
+Tripod|штати́в
+Trombone|тромбо́н
+Trousers|брю́ки
+Trumpet|труба́
+Turkey|инде́йка
+Vehicle registration plate|номерно́й знак
+Violin|скри́пка
+Volleyball (Ball)|мяч
+Waffle|ва́фля
+Waffle iron|вафельница
+Wall clock|часы́
+Wardrobe|шкаф
+Washing machine|стира́льная маши́на
+Waste container|му́сорный бак
+Watch|часы́
+Watercraft|су́дно
+Watermelon|арбу́з
+Weapon|ору́жие
+Whale|кит
+Wheelchair|инвали́дная коля́ска
+Whisk|ве́нчик
+Willow|и́ва
+Window|окно́
+Window blind|жалюзи́
+Wine rack|по́лка
+Winter melon|ты́ква
+Wok|сковорода́
+Woman|же́нщина
+Wood-burning stove|печь
+Woodpecker|дя́тел
+Worm|червь
+Wrench|ключ
+Zucchini|кабачо́к

@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Микроблог — Pirogov Lab</title>
+<meta name="description" content="Новости проектов Михаила Пирогова: приложения «Марий Эл Радио» и «Мэтр ФМ», марийская раскладка клавиатуры, MariSpell.">
+<link rel="canonical" href="https://pirogovlab.ru/blog/">
+<link rel="alternate" hreflang="ru" href="https://pirogovlab.ru/blog/">
+<link rel="alternate" hreflang="en" href="https://pirogovlab.ru/en/blog/">
+<link rel="alternate" hreflang="x-default" href="https://pirogovlab.ru/blog/">
+<link rel="alternate" type="application/rss+xml" title="Микроблог — Pirogov Lab" href="/blog/rss.xml">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="author" content="Михаил Пирогов">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:site_name" content="Pirogov Lab">
+<meta property="og:title" content="Микроблог — Pirogov Lab">
+<meta property="og:description" content="Новости проектов Михаила Пирогова: приложения «Марий Эл Радио» и «Мэтр ФМ», марийская раскладка клавиатуры, MariSpell.">
+<meta property="og:url" content="https://pirogovlab.ru/blog/">
+<meta property="og:image" content="https://pirogovlab.ru/blog/media/mariy-el-radio-update.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Микроблог — Pirogov Lab">
+<meta name="twitter:description" content="Новости проектов Михаила Пирогова: приложения «Марий Эл Радио» и «Мэтр ФМ», марийская раскладка клавиатуры, MariSpell.">
+<meta name="twitter:image" content="https://pirogovlab.ru/blog/media/mariy-el-radio-update.jpg">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "@id": "https://pirogovlab.ru/blog/#blog",
+  "name": "Микроблог Pirogov Lab",
+  "description": "Новости проектов Михаила Пирогова: приложения «Марий Эл Радио» и «Мэтр ФМ», марийская раскладка клавиатуры, MariSpell.",
+  "url": "https://pirogovlab.ru/blog/",
+  "inLanguage": "ru",
+  "author": {
+    "@type": "Person",
+    "name": "Михаил Пирогов"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pirogov Lab",
+    "url": "https://pirogovlab.ru/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://pirogovlab.ru/mariyskaya-raskladka-klaviatury/img/logo-mark-128.webp",
+      "width": 128,
+      "height": 128
+    }
+  },
+  "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "«Марий Эл Радио» 2.6: большое обновление приложения для Android",
+      "url": "https://pirogovlab.ru/blog/2026-10-06-mariy-el-radio-update/",
+      "datePublished": "2026-10-06T10:40:00+03:00",
+      "image": "https://pirogovlab.ru/blog/media/mariy-el-radio-update.jpg"
+    }
+  ]
+}
+</script>
+<style>
+  :root{--accent:#b01e34;--accent-d:#8c1528;--ink:#1d1d1f;--text:#3a3a3c;--muted:#6e6e73;--line:#ececef;--bg:#fff;--soft:#f6f6f7}
+  *,*::before,*::after{box-sizing:border-box}
+  body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;color:var(--text);line-height:1.65;background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:.18em}
+  a:hover{color:var(--accent-d)}
+  .wrap{max-width:46rem;margin:0 auto;padding:0 1.5rem}
+  .top{position:sticky;top:0;z-index:5;background:rgba(255,255,255,.82);backdrop-filter:saturate(180%) blur(14px);-webkit-backdrop-filter:saturate(180%) blur(14px);border-bottom:1px solid var(--line)}
+  .top .wrap{max-width:60rem}
+  nav{display:flex;align-items:center;gap:.6rem;height:3.6rem;font-size:.92rem;color:var(--muted)}
+  nav a{color:var(--ink);text-decoration:none;font-weight:600}
+  nav a:hover{color:var(--accent)}
+  nav>a{flex:none;white-space:nowrap}
+  .logo{display:block;width:1.55rem;height:1.55rem}
+  .logo img{width:100%;height:100%;display:block}
+  .crumb{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  a.crumb{flex:0 1 auto}
+  .lang{margin-left:auto;flex:none;display:inline-flex;align-items:center;gap:.1rem;padding:.16rem;border-radius:999px;background:var(--soft);border:1px solid var(--line);font-size:.74rem;font-weight:600;letter-spacing:.06em;line-height:1}
+  .lang a,.lang .on{display:block;padding:.42rem .66rem;border-radius:999px;text-decoration:none}
+  nav .lang a{color:var(--muted);font-weight:600}
+  nav .lang a:hover{color:var(--accent)}
+  .lang .on{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08),0 0 0 1px rgba(0,0,0,.03)}
+  .eyebrow{display:flex;align-items:center;gap:.6rem;margin:0 0 1rem;font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+  .eyebrow a{color:inherit;text-decoration:none}
+  h1{margin:0 0 1rem;font-size:clamp(1.9rem,5vw,2.7rem);line-height:1.1;font-weight:700;letter-spacing:-.028em;color:var(--ink)}
+  h2{font-size:clamp(1.2rem,2.6vw,1.4rem);margin:2.2rem 0 .9rem;color:var(--ink);font-weight:700;letter-spacing:-.015em}
+  .lead{font-size:clamp(1.02rem,2.2vw,1.12rem);color:var(--muted);margin:0 0 1.4rem}
+  .head{padding:3.5rem 0 1rem}
+  .rss{display:inline-flex;align-items:center;gap:.4rem;font-size:.84rem;color:var(--muted);text-decoration:none;padding:.28rem .75rem;border-radius:999px;background:var(--soft)}
+  .rss:hover{color:var(--accent)}
+  .rss svg{width:.85rem;height:.85rem}
+  .card{background:#fff;border:1px solid var(--line);border-radius:1.15rem;padding:1.5rem 1.6rem;box-shadow:0 1px 2px rgba(0,0,0,.03),0 8px 30px rgba(0,0,0,.05)}
+  .pill{padding:.28rem .75rem;border-radius:999px;background:var(--soft);color:var(--muted);font-size:.84rem}
+  .meta{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1.2rem}
+  time.date{display:block;font-size:.84rem;color:var(--muted);margin:0 0 .5rem;letter-spacing:.01em}
+  .feed{display:grid;gap:1.6rem;margin:1.4rem 0 0}
+  .post h2{margin:0 0 .9rem;font-size:clamp(1.25rem,2.8vw,1.5rem);line-height:1.25}
+  .post h2 a{color:var(--ink);text-decoration:none}
+  .post h2 a:hover{color:var(--accent)}
+  .post p{margin:0}
+  .post .more{display:inline-block;margin-top:.9rem;font-weight:600;text-decoration:none}
+  .media{margin:0 0 1.1rem}
+  .media video,.media img{display:block;width:100%;height:auto;aspect-ratio:16/9;border-radius:.9rem;background:#1d080d;box-shadow:0 0 0 1px rgba(0,0,0,.06),0 14px 36px rgba(60,10,20,.18)}
+  .media figcaption{color:var(--muted);font-size:.84rem;margin-top:.6rem;text-align:center}
+  article.full{padding:3rem 0 0}
+  article.full .media{margin:1.6rem 0 1.8rem}
+  .body{font-size:1.04rem}
+  .body p{margin:0 0 1.1rem}
+  .body ul{margin:0 0 1.2rem;padding-left:1.2rem}
+  .body li{margin:.35rem 0}
+  .body li::marker{color:var(--accent)}
+  .body b,.body strong{color:var(--ink);font-weight:600}
+  .body blockquote{margin:0 0 1.3rem;padding:1.1rem 1.3rem;border-radius:1rem;background:#fbeef0;border-left:4px solid var(--accent);color:var(--text)}
+  .body blockquote p{margin:0}
+  .body blockquote b{color:var(--accent-d)}
+  .stores{display:flex;flex-wrap:wrap;gap:.75rem;margin:1.6rem 0 0}
+  .btn{display:inline-flex;align-items:center;gap:.7rem;padding:.7rem 1.25rem .7rem 1rem;border-radius:.85rem;font-weight:600;font-size:1rem;line-height:1.15;color:#fff!important;text-decoration:none;background:var(--accent);box-shadow:0 6px 20px rgba(176,30,52,.22);transition:background .15s,transform .15s,box-shadow .15s}
+  .btn:hover{background:var(--accent-d);transform:translateY(-1px);box-shadow:0 10px 26px rgba(176,30,52,.28)}
+  .btn small{display:block;font-size:.7rem;font-weight:500;opacity:.8;letter-spacing:.02em}
+  .btn svg{width:1.5rem;height:1.5rem;flex:none}
+  .btn.alt{background:var(--ink);box-shadow:0 6px 20px rgba(0,0,0,.14)}
+  .btn.alt:hover{background:#000}
+  .btn.ghost{background:#fff;color:var(--ink)!important;box-shadow:0 0 0 1px var(--line),0 6px 20px rgba(0,0,0,.06)}
+  .btn.ghost svg{color:var(--accent)}
+  .btn.ghost:hover{background:var(--soft)}
+  .proj{display:flex;gap:1.1rem;align-items:center;margin:2.2rem 0 0;padding:1.1rem 1.25rem;border-radius:1.15rem;background:#fff;border:1px solid var(--line);color:var(--ink);text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.03),0 10px 30px rgba(0,0,0,.06);transition:box-shadow .2s,transform .2s}
+  .proj:hover{color:var(--ink);transform:translateY(-2px);box-shadow:0 2px 4px rgba(0,0,0,.04),0 18px 40px rgba(0,0,0,.09)}
+  .proj img{width:4.2rem;height:2.8rem;border-radius:.45rem;object-fit:cover;flex:none;box-shadow:0 0 0 1px rgba(0,0,0,.06)}
+  .proj b{display:block;font-size:1.02rem;font-weight:600;margin-bottom:.15rem}
+  .proj span{color:var(--muted);font-size:.9rem;line-height:1.45;display:block}
+  .proj .go{margin-left:auto;color:var(--accent);font-size:1.2rem;flex:none}
+  .backlink{display:inline-block;margin-top:2.6rem;font-weight:600;text-decoration:none}
+  footer{margin-top:6rem;padding:2.5rem 1.5rem 3rem;font-size:.88rem;color:var(--muted);text-align:center;border-top:1px solid var(--line)}
+  footer a{color:var(--ink);text-decoration:none}
+  @media (max-width:760px){.head{padding:2.4rem 0 .6rem}article.full{padding:2.2rem 0 0}.card{padding:1.2rem}.btn{flex:1 1 100%;justify-content:flex-start}.proj{padding:1rem}}
+  @media (prefers-reduced-motion:reduce){.btn,.proj{transition:none}}
+</style>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=113432107', 'ym');
+
+    ym(113432107, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/113432107" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</head>
+<body>
+<div class="top"><div class="wrap">
+  <nav aria-label="Навигация"><a href="/" class="logo" aria-label="Pirogov Lab — на главную"><img src="/mariyskaya-raskladka-klaviatury/img/logo-mark-128.webp" width="128" height="128" alt="Логотип Pirogov Lab — марийская восьмиконечная звезда"></a><a href="/">Pirogov Lab</a><span aria-hidden="true">/</span><span class="crumb">Микроблог</span><div class="lang" role="group" aria-label="Язык сайта / Site language"><span class="on" aria-current="true">RU</span><a href="/en/blog/" hreflang="en" lang="en" title="English version">EN</a></div></nav>
+</div></div>
+<main class="wrap">
+  <div class="head">
+    <p class="eyebrow"><span>Pirogov Lab</span></p>
+    <h1>Микроблог</h1>
+    <p class="lead">Короткие новости о моих проектах: обновления приложений, инструменты для марийского языка и всё, что происходит в лаборатории.</p>
+    <a class="rss" href="/blog/rss.xml"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="19" r="2" fill="currentColor"/><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" d="M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16"/></svg>RSS</a>
+  </div>
+  <div class="feed">
+  <article class="card post">
+    <time class="date" datetime="2026-10-29T15:30:00+03:00">29 октября 2026</time>
+    <h2><a href="/blog/2026-10-29-bu-narsa/">«Бу нәрсә?»: камера, которая говорит по-татарски</a></h2>
+    <figure class="media"><img src="/blog/media/bu-narsa.jpg" width="1200" height="630" alt="Бу нәрсә? — камера-словарь татарского языка" loading="lazy"></figure>
+    <p>Наведите камеру на предмет — и узнайте, как он называется по-татарски: слово, перевод и толкование. Татарский словарь по фото, работает без интернета. <a href="/bu-narsa/">Страница приложения</a> #татарский #татарча #Android</p>
+    <a class="more" href="/blog/2026-10-29-bu-narsa/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-28T12:00:00+03:00">28 октября 2026</time>
+    <h2><a href="/blog/2026-10-28-metr-autoframe/">MetrAutoFrame: автокадрирование гостей в vMix одной кнопкой</a></h2>
+    <figure class="media"><img src="/blog/media/metr-autoframe.jpg" width="1200" height="630" alt="MetrAutoFrame" loading="lazy"></figure>
+    <p>Программа для vMix, которая сама находит лица гостей и выравнивает кадры в шаблонах без PTZ-камер: 1–4 гостя, отсчёт 3-2-1, ползунок «Крупность». Открытый код и exe — <a href="https://github.com/MihailPirogov/metr-autoframe" rel="noopener">на GitHub</a>. #vMix #МЭТРFM #OpenSource</p>
+    <a class="more" href="/blog/2026-10-28-metr-autoframe/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-26T14:30:00+03:00">26 октября 2026</time>
+    <h2><a href="/blog/2026-10-26-metr-tv-google-play/">«Эфиры Телерадиокомпании МЭТР» вышли в Google Play</a></h2>
+    <figure class="media"><img src="/blog/media/metr-tv.jpg" width="1200" height="630" alt="МЭТР" loading="lazy"></figure>
+    <p>Приложение МЭТР для Android вышло в Google Play: прямой эфир телеканала МЭТР, новости, программа передач, Марий Эл Радио и МЭТР ФМ. <a href="https://play.google.com/store/apps/details?id=ru.pirogovlab.metrtv" rel="noopener">Открыть в Google Play</a> #МЭТР #МарийЭлРадио #GooglePlay</p>
+    <a class="more" href="/blog/2026-10-26-metr-tv-google-play/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-25T08:45:00+03:00">25 октября 2026</time>
+    <h2><a href="/blog/2026-10-25-mariy-klaviatura-google-play/">Марий клавиатур 5.9.2 отправлена на модерацию в Google Play</a></h2>
+    <figure class="media"><img src="/blog/media/mari-keyboard-android.jpg" width="1200" height="630" alt="Марийская клавиатура для Android" loading="lazy"></figure>
+    <p>Марийская клавиатура 5.9.2 отправлена на проверку в Google Play. Пока идёт модерация, APK можно скачать на сайте, дальше — RuStore. #марийскаяклавиатура #MariKeyboard #GooglePlay</p>
+    <a class="more" href="/blog/2026-10-25-mariy-klaviatura-google-play/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-24T18:00:00+03:00">24 октября 2026</time>
+    <h2><a href="/blog/2026-10-24-mo-tide/">«Мо тиде?»: камера, которая говорит по-марийски</a></h2>
+    <figure class="media"><img src="/blog/media/mo-tide.jpg" width="1200" height="630" alt="Мо тиде? — камера-словарь марийского языка" loading="lazy"></figure>
+    <p>Наведите камеру на предмет — и узнайте, как он называется на луговомарийском: слово, ударение, перевод и толкование из словаря. Работает без интернета. Уже в <a href="https://play.google.com/store/apps/details?id=ru.pirogovlab.marikamera" rel="noopener">Google Play</a>.</p>
+    <a class="more" href="/blog/2026-10-24-mo-tide/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-23T17:30:00+03:00">23 октября 2026</time>
+    <h2><a href="/blog/2026-10-23-mariyskaya-raskladka-macos/">Марийская раскладка теперь и для Mac</a></h2>
+    <figure class="media"><img src="/blog/media/mari-macos.jpg" width="1200" height="630" style="aspect-ratio:1200/630;object-fit:contain;background:#f2f2f7" alt="Марийская раскладка клавиатуры" loading="lazy"></figure>
+    <p>Марийская раскладка клавиатуры 3.1 вышла для macOS: буквы ӱ ӧ ӓ ӹ ҥ через Option, установка одним скриптом.</p>
+    <a class="more" href="/blog/2026-10-23-mariyskaya-raskladka-macos/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-23T15:30:00+03:00">23 октября 2026</time>
+    <h2><a href="/blog/2026-10-23-mariy-el-radio-ios/">Начал разрабатывать плеер Марий Эл Радио для iPhone</a></h2>
+    <figure class="media"><img src="/blog/media/mer-ios.jpg" width="1600" height="542" style="aspect-ratio:1600/542;object-fit:contain;background:#f2f2f7" alt="Марий Эл Радио на разных моделях iPhone" loading="lazy"></figure>
+    <p>Делаю нативное приложение Марий Эл Радио для iPhone: прямой эфир, архив передач за 15 дней, запись эфира, таймер сна и поздравления в студию.</p>
+    <a class="more" href="/blog/2026-10-23-mariy-el-radio-ios/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-22T08:00:00+03:00">22 октября 2026</time>
+    <h2><a href="/blog/2026-10-22-metr-tv/">Начал разработку МЭТР ТВ — бета для Android и Android TV</a></h2>
+    <figure class="media"><img src="/blog/media/metr-tv.jpg" width="1200" height="630" alt="МЭТР ТВ" loading="lazy"></figure>
+    <p>Начал разработку приложения МЭТР ТВ для ГАУК «Марий Эл Телерадио»: прямой эфир, программа, видео и архив передач, радио и новости — на телефонах и Android TV. Бета-версия APK для проверки.</p>
+    <a class="more" href="/blog/2026-10-22-metr-tv/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-21T14:00:00+03:00">21 октября 2026</time>
+    <h2><a href="/blog/2026-10-21-kyv-kytsh/">«Кыв кытш»: словесная игра на коми языке</a></h2>
+    <figure class="media"><img src="/blog/media/kyv-kytsh.jpg" width="1200" height="630" alt="Кыв кытш — круг коми слов" loading="lazy"></figure>
+    <p>Словесная головоломка на коми языке: соединяйте буквы, составляйте слова и заполняйте кроссворд. 500 уровней в 50 главах, перевод каждого слова, задача дня и колесо удачи. Играть можно в браузере и на Android, скоро — RuStore, Google Play и Яндекс Игры.</p>
+    <a class="more" href="/blog/2026-10-21-kyv-kytsh/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-21T14:00:00+03:00">21 октября 2026</time>
+    <h2><a href="/blog/2026-10-21-huz-donyahy/">«Һүҙ донъяһы»: словесная игра на башкирском языке</a></h2>
+    <figure class="media"><img src="/blog/media/huz-donyahy.jpg" width="1200" height="630" alt="Һүҙ донъяһы — мир башкирских слов" loading="lazy"></figure>
+    <p>Словесная головоломка на башкирском: соединяйте буквы, составляйте слова и заполняйте кроссворд. 1000 уровней в 50 главах, перевод каждого слова, задача дня и колесо удачи. Уже в Google Play, а также в браузере и APK; скоро — RuStore и Яндекс Игры.</p>
+    <a class="more" href="/blog/2026-10-21-huz-donyahy/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-20T15:00:00+03:00">20 октября 2026</time>
+    <h2><a href="/blog/2026-10-20-mari-filword/">«Мари филворд»: марийские слова змейкой</a></h2>
+    <figure class="media"><img src="/blog/media/mari-filword.jpg" width="1200" height="630" alt="Мари филворд" loading="lazy"></figure>
+    <p>Филворд на луговомарийском: ищите слова змейкой на сетке и узнавайте перевод. 1300+ уровней в 14 темах, три сложности, бонусные слова и общая таблица лидеров. Играть можно в браузере и на Android, скоро — RuStore, Google Play и Яндекс Игры.</p>
+    <a class="more" href="/blog/2026-10-20-mari-filword/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-20T10:05:00+03:00">20 октября 2026</time>
+    <h2><a href="/blog/2026-10-20-fm-rds-monitor/">FM RDS монитор для «Марий Эл Радио» на ESP32</a></h2>
+    <figure class="media"><img src="/blog/media/fm-rds-monitor.jpg" width="1200" height="630" alt="FM RDS монитор «Марий Эл Радио» на столе" loading="lazy"></figure>
+    <p>Собрал настольный монитор эфира «Марий Эл Радио» 105.5 FM на ESP32 с экраном и FM-модуле RDA5807M: RDS, «сейчас в эфире» с фото исполнителя, полное название и слушатели онлайн. Светодиод сзади показывает, всё ли в порядке. Исходный код открыт на GitHub.</p>
+    <a class="more" href="/blog/2026-10-20-fm-rds-monitor/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-20T10:00:00+03:00">20 октября 2026</time>
+    <h2><a href="/blog/2026-10-20-chavash-samakhe/">«Чӑваш сӑмахӗ»: словесная игра на чувашском языке</a></h2>
+    <figure class="media"><img src="/blog/media/chavash-samakhe.jpg" width="1200" height="630" alt="Чӑваш сӑмахӗ — чувашское слово" loading="lazy"></figure>
+    <p>Словесная головоломка на чувашском: соединяйте буквы, составляйте слова и заполняйте кроссворд. 700 уровней в 50 главах, буквы Ӑ, Ӗ, Ҫ, Ӳ на колесе, перевод каждого слова на русский, задача дня и колесо удачи. Уже в Google Play и RuStore, а также в браузере и APK; скоро — Яндекс Игры.</p>
+    <a class="more" href="/blog/2026-10-20-chavash-samakhe/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-19T15:00:00+03:00">19 октября 2026</time>
+    <h2><a href="/blog/2026-10-19-sanamaailma/">«Sanamaailma»: словесная игра на финском языке</a></h2>
+    <figure class="media"><img src="/blog/media/sanamaailma.jpg" width="1200" height="630" alt="Sanamaailma — мир финских слов" loading="lazy"></figure>
+    <p>Словесная головоломка на финском: соединяйте буквы, составляйте слова и заполняйте кроссворд. 1000 уровней в 50 главах, перевод каждого слова на русский, задача дня и колесо удачи. Играть можно в браузере и на Android, скоро — RuStore, Google Play и Яндекс Игры.</p>
+    <a class="more" href="/blog/2026-10-19-sanamaailma/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-19T14:38:00+03:00">19 октября 2026</time>
+    <h2><a href="/blog/2026-10-19-mari-el-radio-sayt/">Новый сайт Марий Эл Радио</a></h2>
+    <figure class="media"><picture><source srcset="/blog/media/mari-el-radio-new-site.webp" type="image/webp"><img src="/blog/media/mari-el-radio-new-site.jpg" width="1200" height="630" alt="Новый сайт Марий Эл Радио: главная страница на компьютере и телефоне — плеер «Сейчас звучит», сетка эфира и недавно звучавшие песни" loading="lazy"></picture></figure>
+    <p>Сделал новую версию сайта mari-el-radio.ru: светлый дизайн, плеер без пауз при переходах, «сейчас в эфире» с фото, архив эфира, сетка, ведущие, программы, новости и карта покрытия FM.</p>
+    <a class="more" href="/blog/2026-10-19-mari-el-radio-sayt/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-19T16:00:00+03:00">19 октября 2026</time>
+    <h2><a href="/blog/2026-10-19-mari-mut/">«Марий мут»: угадай марийское слово</a></h2>
+    <figure class="media"><img src="/blog/media/mari-mut.jpg" width="1200" height="630" alt="«Марий мут»: угадай марийское слово" loading="lazy"></figure>
+    <p>Новая игра в слова на марийском: угадайте слово за 6 попыток. Задача дня, практика, слова от 3 до 8 букв, карточки слов и общая таблица лидеров. В браузере, на Android, в Google Play и RuStore, скоро — Яндекс Игры.</p>
+    <a class="more" href="/blog/2026-10-19-mari-mut/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-19T14:00:00+03:00">19 октября 2026</time>
+    <h2><a href="/blog/2026-10-19-suz-donyasy/">«Сүз дөньясы»: словесная игра на татарском языке</a></h2>
+    <figure class="media"><img src="/blog/media/suz-donyasy.jpg" width="1200" height="630" alt="Сүз дөньясы — мир татарских слов" loading="lazy"></figure>
+    <p>Словесная головоломка на татарском: соединяйте буквы, составляйте слова и заполняйте кроссворд. 1000 уровней в 50 главах, перевод каждого слова, задача дня и колесо удачи. Играть можно в браузере, скоро — RuStore, Google Play и Яндекс Игры.</p>
+    <a class="more" href="/blog/2026-10-19-suz-donyasy/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-18T14:00:00+03:00">18 октября 2026</time>
+    <h2><a href="/blog/2026-10-18-mut-tunya/">«Мут тӱня»: словесная игра на марийском языке</a></h2>
+    <figure class="media"><img src="/blog/media/mut-tunya.jpg" width="1200" height="630" alt="Мут тӱня — мир марийских слов" loading="lazy"></figure>
+    <p>Выпустил словесную головоломку на марийском: соединяйте буквы, составляйте слова и заполняйте кроссворд. 1000 уровней, карточки слов из «Словаря марийского языка», задача дня и колесо удачи. APK для Android и игра в браузере, скоро — RuStore и Яндекс Игры.</p>
+    <a class="more" href="/blog/2026-10-18-mut-tunya/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-15T15:00:00+03:00">15 октября 2026</time>
+    <h2><a href="/blog/2026-10-15-mariy-kechyshot/">«Марий кечышот»: марийский календарь для Android</a></h2>
+    <figure class="media"><img src="/blog/media/mariy-kechyshot.jpg?v=3" width="1200" height="630" alt="Марий кечышот — марийский календарь" loading="lazy"></figure>
+    <p>Выпустил календарь марийских праздников, молений, примет и обрядов на марийском и русском: 79 праздников, 311 примет, 41 запись об обрядах, утренние напоминания. Работает без интернета, можно скачать APK.</p>
+    <a class="more" href="/blog/2026-10-15-mariy-kechyshot/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-12T13:45:00+03:00">12 октября 2026</time>
+    <h2><a href="/blog/2026-10-12-stream-monitor/">Stream MONITOR: настольный светофор для эфиров</a></h2>
+    <figure class="media"><img src="/blog/media/stream-monitor.jpg" width="1200" height="630" alt="Stream MONITOR на ESP32 CYD" loading="lazy"></figure>
+    <p>Маленький экран на ESP32 за пару сотен рублей стоит на столе в студии и показывает, живы ли HLS/RTMP-потоки. Зелёный — в эфире, красный — упал. Код открыт на GitHub.</p>
+    <a class="more" href="/blog/2026-10-12-stream-monitor/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-08T09:40:00+03:00">8 октября 2026</time>
+    <h2><a href="/blog/2026-10-08-karta-pokrytiya-fm/">Карта покрытия «Марий Эл Радио»</a></h2>
+    <figure class="media"><img src="/blog/media/karta-pokrytiya-fm.jpg" width="1200" height="630" alt="Карта покрытия «Марий Эл Радио»" loading="lazy"></figure>
+    <p>Интерактивная карта покрытия «Марий Эл Радио»: зоны уверенного приёма 15 ФМ-передатчиков в Республике Марий Эл, включая Йошкар-Олу на 105,5 МГц. Найдите свой населённый пункт или щёлкните по карте — и сразу видно, есть ли там уверенный приём.</p>
+    <a class="more" href="/blog/2026-10-08-karta-pokrytiya-fm/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-07T17:30:00+03:00">7 октября 2026</time>
+    <h2><a href="/blog/2026-10-07-mariy-klaviatura-beta/">Марий клавиатура для Android: тестовая версия</a></h2>
+    <figure class="media"><img src="/blog/media/mariy-klaviatura.jpg" width="1200" height="630" alt="Марий клавиатура для Android" loading="lazy"></figure>
+    <p>Приложение в процессе разработки. Бета 5.8: луговая и горная раскладки, ӱ ӧ ҥ по долгому нажатию, красное подчёркивание ошибок и предсказание слов. Можно скачать тестовый APK.</p>
+    <a class="more" href="/blog/2026-10-07-mariy-klaviatura-beta/">Читать полностью →</a>
+  </article>
+  <article class="card post">
+    <time class="date" datetime="2026-10-06T10:40:00+03:00">6 октября 2026</time>
+    <h2><a href="/blog/2026-10-06-mariy-el-radio-update/">«Марий Эл Радио» 2.6: большое обновление приложения для Android</a></h2>
+    <figure class="media">
+  <video controls playsinline preload="metadata" poster="/blog/media/mariy-el-radio-update.jpg" width="1920" height="1080" aria-label="Промо-ролик обновления «Марий Эл Радио» 2.6 для Android">
+    <source src="/blog/media/mariy-el-radio-update-720.mp4" type="video/mp4" media="(max-width: 700px)">
+    <source src="/blog/media/mariy-el-radio-update.mp4" type="video/mp4">
+    <a href="/blog/media/mariy-el-radio-update.mp4">Скачать ролик (MP4)</a>
+  </video><figcaption>Промо-ролик обновления</figcaption>
+</figure>
+    <p>Радио играет, даже когда мобильный интернет работает только по «белым спискам»: приложение само переходит на резервный поток через Яндекс Радио. А ещё новый главный экран, автопереподключение, таймер сна в свёрнутом режиме и удобный Android Auto.</p>
+    <a class="more" href="/blog/2026-10-06-mariy-el-radio-update/">Читать полностью →</a>
+  </article>
+  </div>
+</main>
+<footer>&copy; Михаил Пирогов · <a href="/">Pirogov Lab</a> · <a href="/blog/">Блог</a> · <a href="/blog/rss.xml">RSS</a><!-- rsya:footer --> · <a href="/about/">О проекте</a> · <a href="/privacy/">Конфиденциальность</a><!-- /rsya:footer --></footer>
+<!-- rsya:cookie:start --><div id="ck-note" role="region" aria-label="cookie" hidden style="position:fixed;left:1rem;right:1rem;bottom:1rem;z-index:9999;max-width:34rem;margin:0 auto;background:#fff;color:#1d1d1f;border:1px solid #ececef;border-radius:14px;box-shadow:0 10px 30px rgba(0,0,0,.12);padding:.8rem 1rem;font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;display:none;gap:.8rem;align-items:center;text-align:left"><span style="flex:1">Сайт использует cookie и Яндекс Метрику для статистики посещений. <a href="/privacy/" style="color:#b01e34">Подробнее</a></span><button type="button" id="ck-ok" style="border:0;border-radius:10px;background:#b01e34;color:#fff;padding:.5rem .9rem;font:inherit;cursor:pointer">Понятно</button></div><script>(function(){var n=document.getElementById("ck-note");if(!n)return;function ok(){var v=false;try{if(localStorage.getItem("ck_ok"))v=true}catch(e){}try{if(/(?:^|;\s*)ck_ok=1/.test(document.cookie))v=true}catch(e){}return v}function hide(e){try{if(e&&e.target&&e.target.closest&&e.target.closest("a"))return}catch(x){}try{n.style.display="none";n.hidden=true}catch(x){}try{localStorage.setItem("ck_ok","1")}catch(x){}try{document.cookie="ck_ok=1; max-age=31536000; path=/; SameSite=Lax"}catch(x){}try{if(n.parentNode)n.parentNode.removeChild(n)}catch(x){}}try{if(ok()){hide();return}}catch(x){}try{["click","pointerup","touchend"].forEach(function(t){n.addEventListener(t,hide,false)});n.style.cursor="pointer";n.hidden=false;n.style.display="flex"}catch(x){}})();</script><!-- rsya:cookie:end -->
+</body>
+</html>

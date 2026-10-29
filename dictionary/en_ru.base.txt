@@ -1,0 +1,396 @@
+Bonfire|костёр
+Toy|игру́шка
+Statue|ста́туя
+Tractor|тра́ктор
+Sled|са́нки
+Aquarium|аква́риум
+Beard|борода́
+Bridge|мост
+Tights|колго́тки
+Bird|пти́ца
+Park|парк
+Factory|заво́д
+Porcelain|фарфо́р
+Twig|ве́точка
+Petal|лепесто́к
+Cushion|поду́шка
+Sunglasses|солнцезащи́тные очки́
+Bicycle|велосипе́д
+Stadium|стадио́н
+Boat|ло́дка
+Smile|улы́бка
+Sunset|зака́т
+Hot dog|хот-до́г
+Shorts|шо́рты
+Bus|авто́бус
+Sky|не́бо
+Rock|ка́мень
+Dress|пла́тье
+Toe|па́лец ноги́
+Bear|медве́дь
+Tower|ба́шня
+Brick|кирпи́ч
+Person|челове́к
+Swimwear|купа́льник
+Playground|де́тская площа́дка
+Bathroom|ва́нная
+Balloon|возду́шный шар
+Wreath|вено́к
+Wheelbarrow|та́чка
+Necklace|ожере́лье
+Bracelet|брасле́т
+Windshield|лобово́е стекло́
+Stairs|ле́стница
+Computer|компью́тер
+Cookware and bakeware|посу́да
+Chair|стул
+Poster|плака́т
+Pier|прича́л
+Cave|пеще́ра
+Tie|га́лстук
+Cabinetry|шкаф
+Clown|кло́ун
+Comet|коме́та
+Christmas|Рождество́
+Church|це́рковь
+Clock|часы́
+Cattle|скот
+Jungle|джу́нгли
+Desk|пи́сьменный стол
+Cat|ко́шка
+Juice|сок
+Stuffed toy|мя́гкая игру́шка
+Cookie|пече́нье
+Tile|пли́тка
+Crochet|вяза́ние крючко́м
+Nail|гвоздь
+Cola|ко́ла
+Cutlery|столо́вые прибо́ры
+Menu|меню́
+Pocket|карма́н
+Icicle|сосу́лька
+Chain|цепь
+Dance|та́нец
+Dune|дю́на
+Santa claus|Дед Моро́з
+Mouth|рот
+Desert|пусты́ня
+Dinosaur|диноза́вр
+Fire|ого́нь
+Bedroom|спа́льня
+Goggles|защи́тные очки́
+Dragon|драко́н
+Couch|дива́н
+Cap|ке́пка
+Whiteboard|ма́ркерная доска́
+Hat|шля́па
+Beanie|ша́пка
+Scarf|шарф
+Blackboard|доска́
+Monument|па́мятник
+Net|сеть
+Trunk|ствол
+Coffee|ко́фе
+Soccer|футбо́л
+Food|еда́
+Fruit|фрукт
+Swing|каче́ли
+Forest|лес
+Flag|флаг
+Foot|ступня́
+Jacket|ку́ртка
+Pillow|поду́шка
+Glacier|ледни́к
+Ear|у́хо
+Shell|ра́ковина
+Grandparent|ба́бушка
+Ruins|разва́лины
+Eyelash|ресни́ца
+Bunk bed|двухъя́русная крова́ть
+Horse|ло́шадь
+Saucer|блю́дце
+Hair|во́лосы
+Crowd|толпа́
+Curtain|занаве́ска
+Herd|ста́до
+Insect|насеко́мое
+Ice|лёд
+Jewellery|украше́ния
+Knitting|вяза́ние
+Muscle|мы́шца
+Motorcycle|мотоци́кл
+Money|де́ньги
+Mosque|мече́ть
+Tableware|посу́да
+Kayak|байда́рка
+Receipt|чек
+Lake|о́зеро
+Lighthouse|мая́к
+Bridle|узда́
+Leather|ко́жа
+Horn|рог
+Strap|реме́нь
+Lego|конструкто́р
+Leggings|легги́нсы
+Pool|бассе́йн
+Musical instrument|музыка́льный инструме́нт
+Metal|мета́лл
+Moon|луна́
+Mobile phone|телефо́н
+Tablecloth|ска́терть
+Newspaper|газе́та
+Piano|пиани́но
+Plant|расте́ние
+Passport|па́спорт
+Penguin|пингви́н
+Palace|дворе́ц
+Paper|бума́га
+Pizza|пи́цца
+Pet|дома́шнее живо́тное
+Cage|кле́тка
+Skateboard|скейтбо́рд
+Lipstick|пома́да
+River|река́
+Road|доро́га
+Room|ко́мната
+Roof|кры́ша
+Star|звезда́
+Shoe|ту́фля
+Skin|ко́жа
+School|шко́ла
+Skyscraper|небоскрёб
+Volcano|вулка́н
+Television|телеви́зор
+Rein|по́вод
+Tattoo|татуиро́вка
+Train|по́езд
+Handrail|пери́ла
+Cup|ча́шка
+Vehicle|тра́нспорт
+Handbag|су́мочка
+Lampshade|абажу́р
+Wine|вино́
+Wing|крыло́
+Wheel|колесо́
+Heart|се́рдце
+Cotton|хло́пок
+Bread|хлеб
+Sand|песо́к
+Museum|музе́й
+Helicopter|вертолёт
+Mountain|гора́
+Duck|у́тка
+Soil|земля́
+Turtle|черепа́ха
+Crocodile|крокоди́л
+Sneakers|кроссо́вки
+Wool|шерсть
+Ring|кольцо́
+Wall|стена́
+Rocket|раке́та
+Countertop|столешница
+Beach|пляж
+Rainbow|ра́дуга
+Branch|ве́тка
+Moustache|усы́
+Garden|сад
+Field|по́ле
+Dog|соба́ка
+Flower|цвето́к
+Placemat|салфе́тка
+Building|зда́ние
+Airplane|самолёт
+Fur|мех
+Bull|бык
+Bench|скамья́
+Temple|храм
+Butterfly|ба́бочка
+Kitchen|ку́хня
+Castle|за́мок
+Dam|плоти́на
+Textile|ткань
+Groom|жени́х
+Vegetable|о́вощ
+Jeans|джи́нсы
+Flowerpot|цвето́чный горшо́к
+Drawer|я́щик
+Cake|торт
+Armrest|подлоко́тник
+Fog|тума́н
+Fireworks|салю́т
+Farm|фе́рма
+Seal|тюле́нь
+Shelf|по́лка
+Lightning|мо́лния
+Van|фурго́н
+Tire|ши́на
+Umbrella|зо́нтик
+Sailboat|па́русник
+Supper|у́жин
+Veil|фата́
+Waterfall|водопа́д
+Lunch|обе́д
+Baby|младе́нец
+Glasses|очки́
+Car|автомоби́ль
+Hand|рука́
+Meal|еда́
+Bride|неве́ста
+Swamp|боло́то
+Pie|пиро́г
+Bag|су́мка
+Canoe|кано́э
+Barn|сара́й
+Storm|бу́ря
+Helmet|шлем
+Sink|ра́ковина
+Cheeseburger|чизбу́ргер
+Wetsuit|гидроко́стюм
+Ferris wheel|колесо́ обозре́ния
+Surfboard|доска́ для серфинга
+Picnic|пикни́к
+Camping|ке́мпинг
+Cuisine|ку́хня
+Mortarboard|академи́ческая ша́пка
+Gown|пла́тье
+Tuxedo|смо́кинг
+Blazer|пиджа́к
+Outerwear|ве́рхняя оде́жда
+Jersey|футбо́лка
+Sushi|су́ши
+Cappuccino|капучи́но
+Larva|личи́нка
+Gelato|моро́женое
+Icing|глазу́рь
+Steaming|пар
+person|челове́к
+truck|грузови́к
+traffic light|светофо́р
+fire hydrant|пожа́рный гидра́нт
+stop sign|знак «стоп»
+sheep|овца́
+cow|коро́ва
+elephant|слон
+zebra|зе́бра
+giraffe|жира́ф
+backpack|рюкза́к
+suitcase|чемода́н
+frisbee|фри́сби
+skis|лы́жи
+sports ball|мяч
+kite|возду́шный змей
+tennis racket|раке́тка
+bottle|буты́лка
+wine glass|бока́л
+fork|ви́лка
+knife|нож
+spoon|ло́жка
+bowl|ми́ска
+banana|бана́н
+apple|я́блоко
+sandwich|бутербро́д
+orange|апельси́н
+broccoli|брокколи
+carrot|морко́вь
+donut|по́нчик
+potted plant|ко́мнатное расте́ние
+bed|крова́ть
+dining table|стол
+toilet|унита́з
+tv|телеви́зор
+laptop|ноутбу́к
+mouse|мышь
+remote|пульт
+keyboard|клавиату́ра
+cell phone|телефо́н
+microwave|микроволно́вка
+oven|духо́вка
+toaster|то́стер
+refrigerator|холоди́льник
+book|кни́га
+vase|ва́за
+scissors|но́жницы
+teddy bear|плю́шевый мишка
+hair drier|фен
+toothbrush|зубна́я щётка
+face|лицо́
+eye|глаз
+nose|нос
+cheek|щека́
+Iceberg|а́йсберг
+Bento|бэ́нто
+Circus|цирк
+Pomacentridae|ры́ба
+Shetland sheepdog|соба́ка
+Brig|кора́бль
+Watercolor paint|кра́ски
+Cliff|скала́
+Gerbil|песча́нка
+Reef|риф
+Boxer|соба́ка
+Shipwreck|кора́бль
+Track|доро́жка
+Skyline|го́род
+Clipper|кора́бль
+Sari|са́ри
+Plush|мя́гкая игру́шка
+Sledding|са́нки
+Cavalier|соба́ка
+Bumper|ба́мпер
+Longboard|скейтбо́рд
+Waterfowl|водопла́вающая пти́ца
+Dalmatian|соба́ка
+Speedboat|ка́тер
+Ragdoll|ко́шка
+Sparkler|бенга́льский ого́нь
+Cairn terrier|соба́ка
+Frigate|кора́бль
+Flora|расте́ние
+Himalayan|ко́шка
+Pixie-bob|ко́шка
+Sphynx|ко́шка
+Bangle|брасле́т
+Doily|салфе́тка
+Skiff|ло́дка
+Submarine|подво́дная ло́дка
+Loveseat|дива́н
+Subwoofer|коло́нка
+Cathedral|собо́р
+Unicycle|велосипе́д
+Airliner|самолёт
+Aircraft|самолёт
+Prairie|степь
+Asphalt|асфа́льт
+Basset hound|соба́ка
+Odometer|спидо́метр
+Canyon|каньо́н
+Rickshaw|ри́кша
+Shikoku|соба́ка
+Denim|джи́нсы
+Bangs|чёлка
+Aurora|сия́ние
+Nebula|тума́нность
+Musician|музыка́нт
+Singer|певе́ц
+Selfie|се́лфи
+tree|де́рево
+grass|трава́
+water|вода́
+sea|мо́ре
+hill|холм
+earth|земля́
+floor|пол
+ceiling|потоло́к
+windowpane|окно́
+door|дверь
+house|дом
+palm|па́льма
+path|тропи́нка
+sidewalk|тротуа́р
+snow|снег
+cloud|о́блако
+fence|забо́р
+lamp|ла́мпа
+rug|ковёр
+mirror|зе́ркало
+painting|карти́на

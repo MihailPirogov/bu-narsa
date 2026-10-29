@@ -1,0 +1,17 @@
+build/
+app/build/
+.gradle/
+local.properties
+release/
+**/keys/
+*.p12
+*.jks
+keystore.properties
+site_stage/live/
+tests/paparazzi_unused/
+*.apk
+*.aab
+.kotlin/
+.env
+.env.*
+*.keystore
