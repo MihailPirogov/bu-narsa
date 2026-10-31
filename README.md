@@ -7,6 +7,7 @@
 **TT.** Бушлай Android-кушымта: камераны әйбергә юнәлтегез — аның татарча ничек аталганын белерсез. Интернетсыз эшли.
 
 - Сайт: https://pirogovlab.ru/bu-narsa/
+- Google Play: https://play.google.com/store/apps/details?id=ru.pirogovlab.tatarkamera
 - APK: https://pirogovlab.ru/dl/bu-narsa-0.1.0.apk (а также в [Releases](https://github.com/MihailPirogov/bu-narsa/releases))
 - Политика конфиденциальности: https://pirogovlab.ru/bu-narsa/privacy/
 - Google Play: скоро
